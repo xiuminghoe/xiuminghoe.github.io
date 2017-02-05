@@ -1,0 +1,130 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: "Helvetica Neue", Aerial, Helvetica, sans-serif;
+/*  font-family: 'Roboto', sans-serif;*/
+}
+
+#map {
+  height: 100%;
+/*  width: 79.5%;*/
+  width: 100%;
+  display: inline-block;
+  margin: 0;
+}
+
+#toggle {
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    top: 0;
+/*    height: 50px;*/
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.toggleLayer {
+    width: 220px;
+    list-style: none;
+    text-align: center;
+    font-size: small;
+}
+
+#toggle_header {
+    background-color: black;
+    border-radius: 3px 3px 0px 0px;
+    padding: 9px;
+    color: white;
+}
+
+.toggle.toggle_content {
+    background-color: white;
+    padding: 9px;
+/*    border-bottom: solid 1px gainsboro;*/
+}
+
+.toggle:hover {
+    border: solid #1e90ff;
+    color: #006ad1;
+    cursor: move;
+}
+
+.toggle.on {
+    background-color: #1e90ff;
+    color: white;
+}
+
+.count_list {
+    font-size: smaller;
+}
+
+#layers {
+  height: 100%;
+  width: 20%;
+  float: left;
+  display: inline-block;
+  padding: 5px;
+}
+
+#layers .controls {
+  float: right;
+}
+
+#layers .controls img {
+  height: 20px;
+  padding: 2px;
+}
+
+#layers .controls i {
+  width: 20px;
+  padding: 2px;
+  text-align: center;
+  margin-top: 2px;
+}
+
+#layers .controls .off {
+  opacity: 0.3;
+}
+
+
+.leaflet-popup-content {
+  font-size: 1.3em;
+}
+
+#layers .panel {
+  margin: 0px;
+  padding: 0.65rem;
+}
+
+#layers .panel h5 {
+  font-size: 1rem;
+}
+
+.clear {
+  clear: both;
+  height: 5px;
+}
+
+.legend {
+    line-height: 30px;
+    color: #555;
+    background-color: white;
+    opacity: 0.95;
+    width: 230px;
+    border-radius: 6px;
+    -webkit-border-radius: 0.6em;
+    -moz-border-radius: 0.6em;
+    font-size: 1.1rem;
+}
+
+.legend i {
+    width: 24px;
+    height: 24px;
+    float: left;
+    margin-right: 8px;
+}
+
+.legend h4 {
+  font-size: 1.2rem;
+}

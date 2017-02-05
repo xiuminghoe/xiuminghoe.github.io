@@ -1,0 +1,78 @@
+<!DOCTYPE HTML">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Market Place Theme</title>
+
+    <!--main stylesheet-->
+    <link rel="stylesheet" href="css/style.css" />
+
+    <!--leaflet stylesheet-->
+    <link rel="stylesheet" href="css/leaflet.css"/>
+    <!--[if lte IE8]>
+    <link rel="stylesheet" href=css/leaflet.ie.css"/>
+    <![endif]-->
+
+    <link rel="stylesheet" href="css/MarkerCluster.css" />
+    <link rel="stylesheet" href="css/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="css/gh-pages.css" />
+    <link rel="stylesheet" href="css/dvf.css" />
+
+    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/leaflet.awesome-markers.css">
+    <script src="js/vendor/modernizr.js"></script>
+  </head>
+  <body>
+
+    <!--div for the map-->
+    <div id="map">
+        <div id="toggle">
+<!--            <div id="toggle_panel"><h5>LAYER CONTROLS</h5></div>-->
+            <ul class="toggleLayer">
+                <li class="disabled" id="toggle_header">LAYER CONTROLS</li>
+                <li id="marketMarkers" class="toggle toggle_content visible on">MarketPlace</li>
+                <li id="mallLayer" class="toggle toggle_content visible">Shopping Malls</li>
+                <li id="trainLayer" class="toggle toggle_content visible">Train Network</li>
+                <li id="popAreaColourLayer" class="toggle toggle_content visible">Population <span style="font-size: smaller;">(by PlanningArea)</span></li>
+                <li id="marketProportionalSymbolLayer" class="toggle toggle_content visible on">Count <span style="font-size: smaller;">(by MarketPlace)</span></li>
+            </ul>
+        </div>
+    </div>
+    
+    <!--libraries-->
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script src="js/d3.min.js"></script>
+    <script src="js/foundation.min.js"></script>
+
+    <script src="js/leaflet-src.js"></script>
+    <script src="js/leaflet.markercluster-src.js"></script>
+    <script src="js/shp.js"></script>
+    <script src="js/catiline.js"></script>
+    <script src="js/leaflet.shpfile.js"></script>
+    <script src="js/jquery.csv-0.71.min.js"></script>
+    <script src="js/leaflet.geocsv-src.js"></script>
+    <script src="js/topojson.v1.min.js"></script>
+    <script src="js/L.TopoJSON.js"></script>
+    <script src="js/leaflet-dvf.js"></script>
+    <script src="js/leaflet.awesome-markers.js"></script>
+    <!-- // <script src="js/leaflet-dvf.markers.min.js"></script> -->
+
+    <!--link to main javascript file-->
+    <script src="js/marketplacecount.js"></script>
+    <script src="js/togglelayer.js"></script>
+    <script src="js/main.js"></script>
+
+    <script>
+      $(document).foundation();
+    </script>
+    
+    <script>
+//        function getLayer(layer) {
+//            alert(layer);
+//        }
+    </script>
+    
+  </body>
+</html>

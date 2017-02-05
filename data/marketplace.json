@@ -1,0 +1,42 @@
+{
+"CENTRAL": 
+	{
+		"NTUC": 48,
+		"COLDSTORAGE": 18, 
+		"location": [103.831868, 1.305249],
+		"GIANT": 8,
+		"OTHERS": 16
+		},
+"EAST": 
+	{
+		"NTUC": 37,
+		"COLDSTORAGE": 5, 
+		"location": [103.961323, 1.348671],
+		"GIANT": 12,
+		"OTHERS": 14
+		}, 
+"WEST": 
+	{
+		"NTUC": 31,
+		"COLDSTORAGE": 5, 
+		"location": [103.697558, 1.324370],
+		"GIANT": 5,
+		"OTHERS": 7
+		}, 
+"NORTH-EAST": 
+	{
+		"NTUC": 30,
+		"COLDSTORAGE": 4, 
+		"location": [103.877232, 1.383606],
+		"GIANT": 8,
+		"OTHERS": 6
+		},
+"NORTH": 
+	{
+		"NTUC": 13,
+		"COLDSTORAGE": 2, 
+		"location": [103.792331, 1.418720],
+		"GIANT": 13,
+		"OTHERS": 10
+	}
+}

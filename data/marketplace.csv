@@ -1,0 +1,366 @@
+Category,StoreType,OperatingHours,Telephone,Address,lng,lat
+NTUC,Fairprice,7:00 AM - 11:30 PM,65696260,"BUKIT BATOK MRT, 10 Bukit Batok Central, #01- 08, Singapore 659958",103.749581,1.348822
+NTUC,Fairprice Finest,12:00 AM - 11:59 PM,"62785506, 62785536","BUKIT HO SWEE, 50 Havelock Road, #01-755, Singapore 160050",103.82666,1.289806
+NTUC,,12:00 AM - 11:59 PM,"62640398, 62657986","BOON LAY, 221 Boon Lay Place, #02-200, Boon Lay Shopping Complex, Singapore 640221",103.712472,1.346367
+NTUC,,7:00 AM - 10:00 PM,"62734325, 62733163","BUKIT MERAH, 166 Bukit Merah Central, #02-3531, Singapore 150166",103.817549,1.282843
+NTUC,,12:00 AM - 11:59 PM,"64438038, 64438538","BEDOK NORTH A, 212 Bedok North Street 1, #01- 147, Singapore 460212",103.931573,1.325958
+NTUC,,12:00 AM - 11:59 PM,64499517,"BEDOK NORTH BLK 89, 89 Bedok North Street 4, #01-77/79, Singapore 460089",103.938252,1.33211
+NTUC,FairPrice Finest,8:00 AM - 11:00 PM,"67628876, 67626746","BUKIT PANJANG PLAZA, 1 Jelebu Road, #01-15 & 02-20, Bukit Panjang Plaza, Singapore 677743",103.764145,1.380367
+NTUC,,12:00 AM - 11:59 PM,64451072,"BEDOK RESERVOIR, 745 Bedok Reservoir Road, #01-3015, Singapore 470745",103.921806,1.337336
+NTUC,,12:00 AM - 11:59 PM,"63536036, 63536040","BISHAN BLK 510, 510 Bishan Street 13, #01-520, Singapore 570510",103.849741,1.348907
+NTUC,FairPrice Finest,12:00 AM - 11:59 PM,"64688415, 64684923","BUKIT TIMAH PLAZA, 1 Jalan Anak Bukit, #B1-01 & #B2-01, Bukit Timah Plaza, Singapore 588996",103.778688,1.338903
+NTUC,,7:00 AM - 11:00 PM,"65431239, 65431147","CHANGI AIRPORT T2, 65 Airport Boulevard, #B16- 029, Basement Level South Terminal 2, Singapore 819643",103.989232,1.355174
+NTUC,,12:00 AM - 11:59 PM,"67743663, 67740890","CLEMENTI A, 451 Clementi Ave 3, #01-307, Singapore 120451",103.765886,1.312924
+NTUC,,12:00 AM - 11:59 PM,"67743657, 67745642","CLEMENTI BLK 352, 352 Clementi Ave 2, #01- 141/143, Singapore 120352",103.771188,1.314275
+NTUC,,8:00 AM - 11:00 PM,"64696245, 64696244","CORONATION PLAZA, 587 Bukit Timah Road, #01- 01, Coronation Plaza, Singapore 269707",103.810019,1.323844
+NTUC,,12:00 AM - 11:59 PM,"67860985, 67862467","EASTPOINT, 1 Simei Street 6, Singapore 528578",103.953042,1.342744
+NTUC,,12:00 AM - 11:59 PM,"67488493, 67488494","GEYLANG EAST, 114 Aljunied Ave 2, #01-75, Singapore 380114",103.886849,1.32169
+NTUC,FairPrice Finest,12:00 AM - 11:59 PM,"62870702, 62870703","HOUGANG, 202 Hougang Street 21, #01-00, Singapore 530202",103.884075,1.357433
+NTUC,,12:00 AM - 11:59 PM,63865586,"HOUGANG BLK 682, 682 Hougang Ave 4, #01-310, Singapore 530682",103.885383,1.374661
+NTUC,,8:00 AM - 10:00 PM,"63873123, 63873115","HOUGANG LIFESTYLE MALL, 90 Hougang Ave 10, #B1-07, Hougang Mall, Singapore 538766",103.893944,1.372602
+NTUC,,12:00 AM - 11:59 PM,"65608547, 65608364","JURONG EAST, 135 Jurong Gateway Road, #01-337, Singapore 600135",103.739689,1.333789
+NTUC,,8:00 AM - 11:00 PM,"67924563, 67926091","JURONG POINT, 1 Jurong West Central 2, #B1-09, Jurong Point, Singapore 648886",103.706742,1.339505
+NTUC,,12:00 AM - 11:59 PM,"67657211, 67657297","JALAN TECK WHYE, 140 Teck Whye Lane, #01- 351, Singapore 680140",103.753055,1.379958
+NTUC,,12:00 AM - 11:59 PM,65670073,"JURONG WEST, 498 Jurong West Street 41, #01- 434/436/438, Singapore 640498",103.724111,1.348658
+NTUC,,7:00 AM - 10:00 PM,"62985369, 62980255","KALLANG BAHRU, 71 Kallang Bahru, #01-529/#02- 531, Singapore 330071",103.870298,1.320927
+NTUC,,7:00 AM - 11:00 PM,68922977,"LIMBANG, 533 Choa Chu Kang Street 51, #01-11, Limbang Shopping Centre, Singapore 680533",103.743152,1.391994
+NTUC,,7:00 AM - 11:00 PM,"67665009, 67662784","LOT 1 SHOPPERS' MALL, 21 Choa Chu Kang Ave 4, #B1-05, Lot 1 Shoppers' Mall, Singapore 689812",103.74501,1.385151
+NTUC,,7:00 AM - 11:30 PM,"63631861, 63631862","MARSILING MRT, 71 Woodlands Ave 3, #01-01, Marsiling Mrt Station, Singapore 739044",103.774247,1.432542
+NTUC,FairPrice Finest,8:00 AM - 11:00 PM,"63480826, 63454282","MARINE PARADE, 6 Marine Parade Central, Singapore 449411",103.907148,1.301348
+NTUC,,12:00 AM - 11:59 PM,62418927,"NEW UPPER CHANGI, 57 New Upper Changi Road, #01-1334/1336/1338, Singapore 461057",103.941562,1.324664
+NTUC,,12:00 AM - 11:59 PM,"62860057, 62861967","SERANGOON BLK 152B, 152B Serangoon North Ave 1, #01-384, Singapore 552152",103.872957,1.369735
+NTUC,,8:00 AM - 10:00 PM,"63520850, 63528736","SHAW PLAZA, 360 Balestier Road, #B1-01, Shaw Plaza, Singapore 329783",103.851151,1.325277
+NTUC,Click and Collect,8:00 AM - 10:00 PM,"65551180, 65551187","SUN PLAZA, 30 Sembawang Drive, #B1-01/02, Sun Plaza, Singapore 775713",103.819284,1.44817
+NTUC,,12:00 AM - 11:59 PM,67819306,"TAMPINES BLK 107, 107 Tampines Street 11, #01- 353/355/357/359, Singapore 521107",103.948077,1.348375
+NTUC,,12:00 AM - 11:59 PM,"67875228, 67875249","TAMPINES BLK 475, 475 Tampines Street 44, #01- 145, Singapore 520475",103.953137,1.360448
+NTUC,,8:00 AM - 11:00 PM,"67861953, 67865234","TAMPINES MALL, 4 Tampines Central 5, #B1-12, Tampines Mall, Singapore 529510",103.944698,1.352611
+NTUC,,12:00 AM - 11:59 PM,62704201,"TELOK BLANGAH, 78A Telok Blangah Street 32, #01-01/02, Singapore 100078",103.809176,1.273148
+NTUC,,12:00 AM - 11:59 PM,65617073,"TEBAN GARDEN, 37 Teban Garden Road, #01- 304/305/306, Singapore 600037",103.742938,1.320474
+NTUC,,12:00 AM - 11:59 PM,"62245703, 62245761","TANJONG PAGAR, 5 Tanjong Pagar Plaza, #01-01, Singapore 81005",103.842421,1.276394
+NTUC,FairPrice Finest,8:00 AM - 10:30 PM,"64547738, 64545349","THOMSON PLAZA, 301 Upper Thomson, #03-37/38, Thomson Plaza, Singapore 574408",103.831025,1.354649
+NTUC,,12:00 AM - 11:59 PM,"62664822, 62663044","TAMAN JURONG, 399 Yung Sheng Road, #01-35, Taman Jurong Shopping Centre, Singapore 610399",103.720188,1.334341
+NTUC,,8:00 AM - 11:00 PM,"62508019, 62534178","TOA PAYOH A, 192 Toa Payoh Lorong 4, #01- 670/672, Singapore 310192",103.85065,1.331722
+NTUC,,12:00 AM - 11:59 PM,"63687756, 63681760","WOODLANDS BLK 888, 888 Woodlands Drive 50, #01-757, Singapore 730888",103.795476,1.438552
+NTUC,,8:00 AM - 11:00 PM,"65850536, 65850540","WHITESANDS, 1 Pasir Ris Central Street 3, #B1-10, Whitesands, Singapore 518457",103.949405,1.372472
+NTUC,,8:00 AM - 10:00 PM,"62655800, 62655183","YUNG KUANG, 63/66 Yung Kuang Road, #01- 119/#02-119, Singapore 610063",103.722517,1.331994
+NTUC,,7:00 AM - 11:30 PM,"67554233, 67557705","YISHUN MRT, 301 Yishun Ave 2, #01-02, Yishun Mrt Station, Singapore 769093",103.835188,1.429369
+NTUC,FairPrice Xtra,7:00 AM - 11:00 PM,"68810013, 68810134","HYPER HOUGANG ONE, 1 Hougang Street 91, #02- 01, Hougang 1, Singapore 538692",103.879627,1.375286
+NTUC,,12:00 AM - 11:59 PM,"68810551, 68810552","RIVERVALE PLAZA, 118 Rivervale Drive, #01-08, Rivervale Plaza, Singapore 540118",103.902941,1.385535
+NTUC,,8:00 AM - 10:00 PM,"63844711, 63844709","RIVERVALE MALL, 11 Rivervale Cresent, #03-01, Rivervale Mall, Singapore 545082",103.904656,1.392093
+NTUC,,12:00 AM - 11:59 PM,62570679,"YISHUN RING BLK 414, 414 Yishun Ring Road, #01-1853, Singapore 760414",103.846693,1.424445
+NTUC,,7:00 AM - 11:59 PM,"62506009, 62505270","TOA PAYOH HDB HUB, 500 Toa Payoh Lorong 6, #B1-32/#01-33, Singapore 310500",103.847057,1.333015
+NTUC,,12:00 AM - 11:59 PM,"67550955, 67550976","KHATIB, 849 Yishun Ring Road, #01-3701/3703, Singapore 760849",103.835243,1.416939
+NTUC,,12:00 AM - 11:59 PM,67344450,"ORCHARD GRAND COURT, 131 Killiney Road, #01-01/02/03, Orchard Grand Court, Singapore 239571",103.838372,1.297315
+NTUC,FairPrice Finest,8:00 AM - 11:00 PM,"62590461, 62594437","JUNCTION 8, 9 Bishan Place, #B1-01, Junction 8 Shopping Centre, Singapore 579837",103.848515,1.35063
+NTUC,FairPrice Finest,12:00 AM - 11:59 PM,"68931203, 68939576","WOODGROVE, 30 Woodlands Ave 1, #01-11, The Woodgrove, Singapore 739065",103.781193,1.429068
+NTUC,,12:00 AM - 11:59 PM,65610042,"BUKIT BATOK EAST, 280 Bukit Batok East Ave 3, #01-315, Singapore 650280",103.757112,1.347599
+NTUC,,12:00 AM - 11:59 PM,67631076,"SENJA GRAND, 628 Senja Road, #01-01, Senja Grand, Singapore 670628",103.760094,1.385129
+NTUC,,12:00 AM - 11:59 PM,"64764471, 64792427","DAWSON, 57 Dawson Road, #01-07, Dawson Place, Singapore 142057",103.811032,1.29271
+NTUC,FairPrice Finest,8:00 AM - 11:00 PM,"62700913, 62700119","TIONG BAHRU PLAZA, 302 Tiong Bahru Road, #B1-01/02, Tiong Bahru Plaza, Singapore 168732",103.826746,1.286674
+NTUC,,8:00 AM - 10:00 PM,62729697,"DEPOT, 108 Depot Road, #01-01, Depot Heights Shopping Centre, Singapore 100108",103.810083,1.281198
+NTUC,,7:00 AM - 10:00 PM,"63129091, 63129880","PUNGGOL PLAZA, 168 Punggol Field Road, #03- 01/02, Punggol Plaza, Singapore 820168",103.912912,1.394211
+NTUC,,7:00 AM - 11:00 PM,"62192812, 62192074","WOODLANDS CIVIC CTR, 900 South Woodlands Drive, #B1-01, Woodlands Civic Centre, Singapore 730900",103.774149,1.432504
+NTUC,,12:00 AM - 11:59 PM,67810648,"TAMPINES BLK 138, 138 Tampines Street 11, #01- 136, Singapore 521138",103.945654,1.345493
+NTUC,,12:00 AM - 11:59 PM,64432578,"CHAI CHEE, 29B Chai Chee Ave, #01-62, Singapore 462029",103.923793,1.324271
+NTUC,,12:00 AM - 11:59 PM,62891647,"SERANGOON CENTRAL, 253 Serangoon Central Drive, #01-241, Singapore 550253",103.87077,1.354122
+NTUC,,12:00 AM - 11:59 PM,64484285,"SIGLAP NEW MARKET, 934 East Coast Road, Siglap New Market, Singapore 459125",103.925253,1.312397
+NTUC,,7:00 AM - 10:00 PM,67551369,"YISHUN BLK 239, 239 Yishun Ring Road, #01-1150, Singapore 760239",103.839943,1.433462
+NTUC,,12:00 AM - 11:59 PM,"65812886, 65813845","PASIR RIS WEST PLAZA, 734 Pasir Ris Street 72, #01-37, Pasir Ris West Plaza, Singapore 510734",103.936293,1.379995
+NTUC,FairPrice Xtra,7:00 AM - 11:00 PM,"64532521, 64531741","HYPER ANG MO KIO , 53 Ang Mo Kio Ave 3, #B2- 26, Ang Mo Kio Hub, Singapore 569933",103.848647,1.369623
+NTUC,,9:00 AM - 10:00 PM,"63976432, 63976428","SQUARE 2, 10 Sinaran Drive, #04-46/47/48/49, Square 2, Singapore 307506",103.844208,1.320609
+NTUC,,7:00 AM - 11:00 PM,"67852162, 65876836","TAMPINES CC, 866A Tampines Street 83, #01-01, Singapore 521866",103.934408,1.355323
+NTUC,,7:00 AM - 11:00 PM,62961552,"CAMBRIDGE BLK 43, 43 Cambridge Road, #01-15, Singapore 210043",103.849386,1.315477
+NTUC,,8:00 AM - 10:00 PM,"65815176, 65812915","DOWNTOWN EAST, 1 Pasir Ris Close, #02-127, E Hub Downtown East, Singapore 519599",103.955191,1.376154
+NTUC,,9:00 AM - 10:00 PM,64724611,"STIRLING ROAD, 170 Stirling Road, #01-1147, Singapore 140170",103.802755,1.290864
+NTUC,,12:00 AM - 11:59 PM,62425707,"JALAN TIGA, 41 Jalan Tiga, #01-05, Singapore 390041",103.884814,1.307587
+NTUC,,12:00 AM - 11:59 PM,"64843176, 64843179","SEMBAWANG WAY BLK 355 , 355 Sembawang Way, #01-01, Singapore 750355",103.81862,1.449617
+NTUC,FairPrice Finest,7:00 AM - 11:00 PM,"62426653, 62422048","CHANGI AIRPORT T3, 65 Changi Airport Terminal 3, Airport Boulevard, Basement 2 North, #B2-10, Singapore 819663",103.986632,1.356407
+NTUC,,7:30 AM - 11:00 PM,67736269,"DOVER, 28 Dover Cresent, #01-83, Singapore 130028",103.781403,1.305007
+NTUC,,7:00 AM - 11:00 PM,67422116,"UPPER BOON KENG, 5 Upper Boon Keng Road, #01-05, Singapore 380005",103.872549,1.312591
+NTUC,,12:00 AM - 11:59 PM,"64818505, 64818014","COMPASSVALE LINK, 277C Compassvale Link, #01-13, Singapore 544277",103.893961,1.382318
+NTUC,,12:00 AM - 11:59 PM,"62562253, 62569602","LOR LIMAU, 80 Lorong Limau Road, #01-191, Singapore 320080",103.855841,1.323892
+NTUC,Click and Collect,12:00 AM - 11:59 PM,"67901477, 67901765","HYPER JURONG POINT, 63 Jurong West Central 3, #03-01, Jurong Point, Singapore 648331",103.705189,1.339619
+NTUC,,12:00 AM - 11:59 PM,67736387,"BUONA VISTA CC, 36 Holland Drive, #01-03/04/05, Singapore 270036",103.792671,1.309124
+NTUC,,7:00 AM - 11:00 PM,"67639011, 67636891","YEW TEE POINT, 21 Choa Chu Kang North 6, #B1- 01, Yew Tee Point, Singapore 689578",103.746462,1.397335
+NTUC,,7:00 AM - 11:00 PM,"67456977, 67452682","JOO CHIAT COMPLEX, 2 Joo Chiat Road, #01/02- 1139, Joo Chiat Complex, Singapore 420002",103.898858,1.315428
+NTUC,,8:00 AM - 10:00 PM,"65096260, 65096261","CITY SQUARE MALL, 180 Kitchener Road, #B1- 09/10, Singapore 208539",103.856573,1.311547
+NTUC,,12:00 AM - 11:59 PM,"63858040, 63859054","KANG KAR MALL , 100 Hougang Ave 10, #01-01 & #02-01, Kang Kar Mall, Singapore 538767",103.898841,1.371611
+NTUC,FairPrice Finest,9:00 AM - 10:00 PM,"65870167, 65870163","CENTURY SQUARE, 2 Tampines Central 5, #B1/07/08/17, Century Square, Singapore 529509",103.944069,1.352083
+NTUC,,12:00 AM - 11:59 PM,"65562133, 65564597","CANBERRA ROAD BLK 511, 511 Canberra Road, #02-03, Singapore 750511",103.819666,1.453875
+NTUC,,8:00 AM - 11:00 PM,67469722,"EUNOS CRESCENT, 5 Eunos Crescent, #01-2619/21, Singapore 400005",103.903569,1.321159
+NTUC,,8:00 AM - 11:00 PM,67497047,"CIRCUIT BLK 77, 77 Circuit Road, #01-464/466, Singapore 370077",103.885289,1.328327
+NTUC,,9:00 AM - 10:00 PM,"64823678, 64823624","ORCHID COUNTRY CLUB, 1 Orchid Club Rd, #01- 34 Level 1, Orchid Country Club, Singapore 769162",103.844766,1.411317
+NTUC,FairPrice Xtra,12:00 AM - 11:59 PM,"66344948, 66344947","HYPER NEX, 23 Serangoon Central, #03-42, nex Mall, Singapore 556083",103.871962,1.350703
+NTUC,FairPrice Finest,8:00 AM - 11:00 PM,"66594437, 66594438","CLEMENTI MALL, 3155 Commonwealth Avenue West, #B1-12/13/14, The Clementi Mall, Singapore 129588",103.764127,1.315159
+NTUC,FairPrice Finest,12:00 AM - 11:59 PM,"66342038, 66342037","MY VILLAGE, 1 Maju Avenue, # B1-11 to 14, # B1- K09, Serangoon Garden Village, Singapore 556679",103.865406,1.365039
+NTUC,,12:00 AM - 11:59 PM,64588090,"ANG MO KIO BLK 215, 215 Ang Mo Kio Ave 1, #01- 877, Singapore 560215",103.84161,1.366489
+NTUC,,7:00 AM - 11:00 PM,66365760,"PUNGGOL DRIVE BLOCK 612, 612 Punggol Drive, #01-06, Singapore 820612",103.908612,1.404916
+NTUC,,7:00 AM - 10:00 PM,"62754868, 62754631","KIM TIAN, 18/20 Kim Tian Road, Singapore 169252",103.829388,1.284821
+NTUC,,12:00 AM - 11:59 PM,64582558,"BISHAN NORTH BLK 279, 279 Bishan Street 24, #01-62/64, Singapore 570279",103.843808,1.35721
+NTUC,,12:00 AM - 11:59 PM,67487794,"LENGKONG TIGA, 110 Lengkong Tiga, #01-233/235, Singapore 410110",103.910843,1.32366
+NTUC,,12:00 AM - 11:59 PM,68416016,"GEYLANG LORONG 38, 612/620 Geylang Lorong 38, Singapore 389551",103.888666,1.314241
+NTUC,,12:00 AM - 11:59 PM,"64564147, 64564805","ANG MO KIO BLK 712, 712 Ang Mo Kio Ave 6, #01- 4056, Singapore 560712",103.847129,1.371417
+NTUC,FairPrice Finest,8:00 AM - 11:00 PM,"66360290, 66360291","SCOTTS SQUARE, 6 Scotts Road, #B1-03 to 07 and #B1-10, Scotts Square, Singapore 228209",103.832837,1.306076
+NTUC,,8:00 AM - 10:00 PM,"62769903, 62707303","PSA BRANCH, 460 Alexandra Road, #01-09 & #01- 16, Singapore 119963",103.80135,1.273727
+NTUC,FairPrice Xtra,8:00 AM - 10:30 PM,"66047548, 66047546","HYPER CHANGI, 8 Changi Business Park Ave 1, #01- 51 & #02-51, Singapore 486018",103.963539,1.335073
+NTUC,FairPrice Finest,8:00 AM - 11:00 PM,"67340536, 67340260","ZHONGSHAN PARK, 20 Ah Hood Road, #02-01, Zhong Shan Park, Singapore 329984",103.846506,1.32704
+NTUC,,8:00 AM - 10:30 PM,"67020381, 67020382","CHINATOWN POINT, 133 New Bridge Road, #B1- 01, Chinatown Point, Singapore 059413",103.845348,1.285692
+NTUC,FairPrice Finest,8:00 AM - 10:00 PM,"66047457, 66047405","AMARA, 100 Tras Street, #B1-01, 100Am, Singapore 079027",103.843184,1.276173
+NTUC,,7:00 AM - 11:00 PM,63392996,"WOODLANDS AVE 1, 570B Woodlands Ave 1, #01- 06, Singapore 732570",103.790783,1.431138
+NTUC,FairPrice Finest,8:00 AM - 10:00 PM,"67339358, 67339861","VALLEY POINT, 491 River Valley Road, #01-14, Valley Point, Singapore 248371",103.827441,1.293144
+NTUC,,7:00 AM - 11:00 PM,67766620,"WEST COAST, 502 West Coast Drive, #01-41, Singapore 120502",103.759264,1.311912
+NTUC,,8:00 AM - 10:00 PM,68532308,"ITE ANG MO KIO, 2 Blk A Ang Mo Kio Drive, #01- 12, Singapore 567720",103.856399,1.377636
+NTUC,FairPrice Xtra,7:00 AM - 11:00 PM,"63391729, 63390385","HYPER JEM, 50 Jurong Gateway Road, #B1 -21/22 & B3 -01, Singapore 608549",103.74303,1.332903
+NTUC,Click and Collect,7:30 AM - 9:00 PM,66944957,"CHEERS NUS, No. 2 College Avenue West #01-05, #01-05, Singapore 138607",,
+NTUC,Click and Collect,12:00 AM - 11:59 PM,64539336,"CHEERS UPPER THOMSON, 594 Upper Thomson Road, Singapore 574420",103.828942,1.372928
+NTUC,,8:00 AM - 10:00 PM,65381476,"PUNGGOL WALK, 308C Punggol Walk, #01-352, Singapore 823308",103.898952,1.408075
+NTUC,,8:00 AM - 9:00 PM,"64720048, 64720147","REDHILL, 20 Lengkok Bahru, #01-13, Singapore 159053",,
+NTUC,Click and Collect,7:00 AM - 10:50 PM,62419105,"CHEERS NEPTUNE COURT,  #01- 33, Neptune Court, Singapore 449034",103.921789,1.306448
+NTUC,,7:00 AM - 11:00 PM,62530146,"JALAN BUKIT MERAH, 1 Jalan Bukit Merah, #01- 4500, Singapore 150001",103.808749,1.286507
+NTUC,Click and Collect,7:00 AM - 11:00 PM,"62192812, 62192074","WOODLANDS CIVIC CTR, 900 South Woodlands Drive, #B1-01, Woodlands Civic Centre, Singapore 730900",103.786769,1.435047
+NTUC,,7:00 AM - 10:00 PM,65691789,"BUKIT BATOK HT, 2 Bukit Batok West, #01-10, HomeTeamNS Clubhse, Singapore 659003",103.749864,1.365527
+NTUC,Click and Collect,8:00 AM - 11:00 PM,"65850536, 65850540","WHITESANDS, 1 Pasir Ris Central Street 3, #B1-10, Whitesands, Singapore 518457",103.949452,1.372461
+NTUC,Click and Collect,7:00 AM - 11:00 PM,"65431239, 65431147","CHANGI AIRPORT T2, Click&Collect: No Chilled & Frozen, #B16-029, Terminal 2, Basement Level South, Singapore 819643",103.989337,1.355012
+NTUC,,8:00 AM - 10:00 PM,63521728,"MACPHERSON MALL, 401 Macpherson Road, #02- 22, Macpherson Mall, Singapore 368125",103.879125,1.331731
+NTUC,FairPrice Finest,9:00 AM - 10:00 PM,"62624180, 62624183","JCUBE, 2 Jurong East Central 1, #B1-12 , Jcube, Singapore 609731",103.707119,1.339721
+NTUC,FairPrice Finest,12:00 AM - 11:59 PM,"67693819, 67693956","YEW TEE MRT , 61 Choa Chu Kang Drive, #01-01 , Yew Tee MRT Station, Singapore 689715",103.747452,1.397045
+NTUC,,8:00 AM - 10:00 PM,63583036,"Henderson Crescent, 106 Henderson Crescent, #01-47, Singapore 150106",,
+NTUC,FairPrice Finest,9:00 AM - 10:00 PM,"64438547, 64431472","CHANGI CITY POINT, 5 Changi Business Park Central 1, #B1-09/10/11 , Singapore 486038",103.963235,1.335117
+NTUC,,8:00 AM - 10:00 PM,65815176,"DOWNTOWN EAST, 1 Pasir Ris Close, #02-127, E Hub Downtown East, Singapore 519599",103.955222,1.376189
+NTUC,,12:00 AM - 11:59 PM,"63866751, 63866762","OUR TAMPINES HUB, 51 Tampines Ave 4, #B1-01, Festive Mall @ Our Tampines Hub, Singapore 529684",103.939799,1.35374
+NTUC,,12:00 AM - 11:59 PM,64443216,"JALAN KAYU, 447A Jalan Kayu, #01-01/02, Singapore 791447",103.872496,1.392308
+NTUC,FairPrice Finest,8:00 AM - 11:00 PM,"63421242, 63421371","KATONG VILLAGE, 30 East Coast Road, #01- 06/07/08/09, Katong Village Hotel, Singapore 428751",103.902876,1.304024
+NTUC,,7:00 AM - 11:00 PM,62949535,"KITCHENER COMPLEX, 808 French Road, #01-01, Singapore 200808",103.86199,1.308916
+NTUC,FairPrice Finest,8:00 AM - 11:00 PM,"68449846, 68449845","BEDOK MALL, 311 New Upper Changi Road, #B2- 60, Bedok Mall, Singapore 467360",103.928729,1.324419
+NTUC,,9:00 AM - 10:00 PM,66844052,"NUH MEDICAL CENTRE, 1 Lower Kent Ridge Road, #02-16, NUH Medical Centre, Singapore 119082",103.784468,1.293551
+NTUC,Click and Collect,12:00 AM - 11:59 PM,68464381,"FAIRPRICE EXPRESS MACPHERSON, 110/114 MacPherson Road, Singapore 348501",103.871942,1.328632
+NTUC,Click and Collect,7:00 AM - 11:00 PM,"64532521, 64531741","HYPER ANG MO KIO, 53 Ang Mo Kio Ave 3, #B2- 26, Ang Mo Kio Hub, Singapore 569933",103.848669,1.36958
+NTUC,Click and Collect,8:00 AM - 10:30 PM,"66047548, 66047546","HYPER CHANGI, 8 Changi Business Park Ave 1, #01- 51 #02-51, Singapore 486018",103.963496,1.335062
+NTUC,,7:00 AM - 11:00 PM,62858830,"POTONG PASIR COMMUNITY CLUB, 6 Potong Pasir Ave 2, #01-01, Singapore 358361",103.867259,1.332669
+NTUC,Click and Collect,7:00 AM - 11:00 PM,"63391729, 63390385","HYPER JEM, 50 Jurong Gateway Road, #B1 -21/22 #B3 -01, Singapore 608549",103.743051,1.332924
+NTUC,Click and Collect,12:00 AM - 11:59 PM,"64688415, 64684923","BUKIT TIMAH PLAZA, 1 Jalan Anak Bukit, #B1-01 #B2-01, Bukit Timah Plaza, Singapore 588996",103.778387,1.338206
+NTUC,Click and Collect,12:00 AM - 11:59 PM,"62870702, 62870703","HOUGANG, 202 Hougang Street 21, #01-00, Singapore 530202",103.884083,1.357417
+NTUC,Click and Collect,8:00 AM - 11:00 PM,"67340536, 67340260","ZHONGSHAN PARK, 20 Ah Hood Road, #02-01, Zhong Shan Park, Singapore 329984",103.846506,1.32705
+NTUC,Click and Collect,8:00 AM - 10:00 PM,"67339358, 67339861","VALLEY POINT, 491 River Valley Road, #01-14, Valley Point, Singapore 248371",103.827452,1.293144
+NTUC,FairPrice Finest,12:00 AM - 11:59 PM,"63416177, 63416178","SELETAR MALL, 33 Sengkang W Ave, #B2-24, Seletar Mall, Singapore 797653",103.876022,1.391209
+NTUC,Click and Collect,9:00 AM - 10:00 PM,"65870167, 65870163","CENTURY SQUARE, 2 Tampines Central 5, #B1/07/08/17, Century Square, Singapore 529509",103.944048,1.352061
+NTUC,Click and Collect,8:00 AM - 10:00 PM,"66047457, 66047405","AMARA, 100 Tras Street, #B1-01, 100Am, Singapore 079027",103.843772,1.275237
+NTUC,Click and Collect,8:00 AM - 10:30 PM,"64547738, 64545349","THOMSON PLAZA, 301 Upper Thomson, #03-37/38, Thomson Plaza, Singapore 574408",103.831025,1.354703
+NTUC,Click and Collect,12:00 AM - 11:59 PM,"63858040, 63859054","KANG KAR MALL , 100 Hougang Ave 10, #01-01 #02-01, Kang Kar Mall, Singapore 538767",103.894262,1.371715
+NTUC,Click and Collect,12:00 AM - 11:59 PM,"64438038, 64438538","BEDOK NORTH A, 212 Bedok North Street 1, #01- 147, Singapore 460212",103.93164,1.325856
+NTUC,Click and Collect,8:00 AM - 11:00 PM,"62508019, 62534178","TOA PAYOH A, 192 Toa Payoh Lorong 4, #01- 670/672, Singapore 310192",103.850654,1.331721
+NTUC,Click and Collect,12:00 AM - 11:59 PM,64403538,"FAIRPRICE EXPRESS EAST COAST , 239/255 East Coast Road, Singapore 428932",103.907973,1.308269
+NTUC,Click and Collect,12:00 AM - 11:59 PM,67636030,"FAIRPRICE EXPRESS CHOA CHU KANG, 31 Choa Chu Kang Way, Singapore 688786",103.750136,1.37759
+NTUC,,10:00 AM - 9:00 PM,"67104584, 67104594","WAREHOUSE CLUB, 1 Joon Koon Circle, Level 2 and 3, Singapore 629117",103.678856,1.327349
+NTUC,Click and Collect,12:00 AM - 11:59 PM,62513075,"FAIRPRICE EXPRESS TOA PAYOH 2, 399 Toa Payoh Lorong 2, Singapore 319640",103.846389,1.336315
+NTUC,Click and Collect,12:00 AM - 11:59 PM,63345819,"CHEERS PEACE CENTRE, 1 Sophia Road, #01-18, Peace Centre, Singapore 228149",103.849692,1.300986
+NTUC,FairPrice Xtra,12:00 AM - 11:59 PM,"67901477, 67901765","HYPER JURONG POINT, 63 Jurong West Central 3, #03-01, Jurong Point, Singapore 648331",103.705395,1.339542
+NTUC,,8:00 AM - 10:00 PM,"65551180, 65551187","SUN PLAZA, 30 Sembawang Drive, #B1-01/02, Sun Plaza, Singapore 775713",103.819445,1.448159
+NTUC,Click and Collect,12:00 AM - 11:59 PM,"64764471, 64792427","DAWSON, 57 Dawson Road, #01-07, Dawson Place, Singapore 142057",103.81103,1.29271
+NTUC,,7:00 AM - 10:00 PM,62195987,"BUKIT PANJANG MKT, 2 Bukit Panjang Ring Road, #02-06, Singapore 679947",,
+NTUC,FairPrice Xtra,12:00 AM - 11:59 PM,"63858959, 63858961","WATERWAY POINT, 83 Punggol Central, #B2-32, Waterway Point, Singapore 828761",103.902301,1.406229
+NTUC,Click and Collect,12:00 AM - 11:59 PM,"66344948, 66344947","HYPER NEX, 23 Serangoon Central, #03-42, nex Mall, Singapore 556083",103.871951,1.350692
+NTUC,Click and Collect,7:00 AM - 11:59 PM,"62506009, 62505270","TOA PAYOH HDB HUB, 500 Toa Payoh Lorong 6, #B1-32/#01-33, Singapore 310500",103.847064,1.333004
+NTUC,Click and Collect,7:00 AM - 11:00 PM,"67456977, 67452682","JOO CHIAT COMPLEX, 2 Joo Chiat Road, #01/02 - 1139, Joo Chiat Complex, Singapore 420002",103.898869,1.315428
+NTUC,Click and Collect,7:00 AM - 11:00 PM,"62426653, 62422048","CHANGI AIRPORT T3, Click&Collect: No Chilled & Frozen, #B2-10, Terminal 3, Basement2 North, Singapore 819663",103.986561,1.356344
+NTUC,,8:00 AM - 10:00 PM,"64524119, 64520827","Ang Mo Kio Blk 574, Blk 574 Ang Mo Kio Ave 10, #01-1847 , Singapore 560574",103.856261,1.371273
+NTUC,Click and Collect,12:00 AM - 11:59 PM,67841294,"FAIRPRICE EXPRESS TAMPINES AVE 7, 9 Tampines Ave 7, Singapore 529619",103.959019,1.35759
+NTUC,FairPrice Xtra,8:00 AM - 10:30 PM,"67027281, 67027282","HYPER SPORTS HUB, #01-29, 1 Stadium Place, Singapore 397628",103.872659,1.304428
+NTUC,Click and Collect,8:00 AM - 9:00 PM,"64720048, 64720147","REDHILL, 20 Lengkok Bahru, #01-13, Singapore 159053",103.814835,1.287312
+NTUC,,7:00 AM - 11:00 PM,"67026100, 67024800","SERANGOON VIEW, 476 Upp Serangoon View, #02- 18, Singapore 530476",,
+NTUC,Click and Collect,7:00 AM - 10:00 PM,"62734325, 62733163","BUKIT MERAH, 166 Bukit Merah Central, #02-3531, Singapore 150166",103.817552,1.282835
+NTUC,Click and Collect,7:00 AM - 11:00 PM,"68810013, 68810134","HYPER HOUGANG ONE, 1 Hougang Street 91, #02- 01, Hougang 1, Singapore 538692",103.879625,1.375286
+NTUC,Click and Collect,8:00 AM - 11:00 PM,"68449846, 68449845","BEDOK MALL, 311 New Upper Changi Road, #B2- 60, Bedok Mall, Singapore 467360",103.928751,1.324387
+NTUC,,8:00 AM - 10:00 PM,65600107,"JURONG EAST BLK 249, 249 Jurong East St 24, #01- 106 , Singapore 600249",,
+NTUC,,12:00 AM - 11:59 PM,62140937,"FAIRPRICE EXPRESS UPPER CHANGI RD, 955 Upper Changi Road North, Singapore 507662",103.969762,1.359456
+NTUC,,12:00 AM - 11:59 PM,63536036,"BISHAN BLK 510, 510 Bishan Street 13, #01-520, Singapore 570510",103.849648,1.348784
+NTUC,,12:00 AM - 11:59 PM,64818505,"COMPASSVALE LINK, 277C Compassvale Link, #01-13, Singapore 544277",103.893961,1.38235
+NTUC,,8:00 AM - 10:00 PM,"62653188, 62524418","Blk 150 Silat Ave, Blk 150 Silat Ave, #01-44, Singapore 160150",,
+NTUC,,12:00 AM - 11:59 PM,65646717,"BUKIT BATOK WEST, West Ave 8, #01-256/258, 166 Bukit Batok, Singapore 650166",103.742956,1.347306
+NTUC,,12:00 AM - 11:59 PM,65651513,"JURONG EAST 345, Jurong East St 31, #01-29, Blk 345, Singapore 600345",103.731122,1.345535
+NTUC,,12:00 AM - 11:59 PM,63845829,"SENGKANG EAST AVE, SengKang East Ave, #01- 06, Blk 279, Singapore 540279",103.893273,1.38651
+Sheng Shiong,Self-Payment Kiosk,24 Hours,62500664,Blk 547 Segar Rd_ #01-06_ Singapore 670547,103.76981,1.387917
+Sheng Shiong,,24 Hours,65350401,Blk 52 Chin Swee Rd #01-25 Singapore 160052,103.841684,1.287163
+Sheng Shiong,,24 Hours,62422824,Blk 209 New Upper Changi Rd #01-631/#02-631 Singapore 460209,103.931035,1.324574
+Sheng Shiong,,24 Hours,68750103,Blk 18 Teck Whye Lane #01-95 Singapore 680018,103.753983,1.378334
+Sheng Shiong,,24 Hours,67472610,18B Circuit Road #01-260 Singapore 372018,103.888219,1.329158
+Sheng Shiong,,24 Hours,64499073,Blk 115 Bedok North Road #01-319 Singapore 460115,103.936376,1.331304
+Sheng Shiong,Self-Payment Kiosk,7.00am - 12.00mn,63656162,200 Woodlands Industrial Park E7 Singapore 757177,103.796945,1.450952
+Sheng Shiong,Self-Payment Kiosk,7.00am - 11.00pm,64750386,85 Dawson Road #01-01 Singapore 141085,103.796945,1.450952
+Sheng Shiong,,24 Hours,62421442,Blk 539A Bedok North St 3 #01-477 Singapore 461539,103.810041,1.29542
+Sheng Shiong,,24 Hours,63623061,Blk 301 Woodlands St 31 #01-217 Singapore 730301,103.773507,1.431703
+Sheng Shiong,,24 Hours,68461766,Blk 301 Geylang Lorong 15 #01-02 BCH Building Singapore 389344,103.878628,1.312633
+Sheng Shiong,,24 Hours,64478669,Blk 739A Bedok Reservoir Rd #01-01 Singapore 471739,103.92349,1.338136
+Sheng Shiong,Self-Payment Kiosk,24 Hours,63657662,1 Jalan Berseh #B1-01 New World Centre Singapore 209037,103.857152,1.307717
+Sheng Shiong,,24 Hours,65851027,Blk 623 Elias Road #B1-01 Elias Mall (Stalls #14-16) Singapore 510623,103.942383,1.377794
+Sheng Shiong,,24 Hours,67557383,Blk 845 Yishun St 81 #01-186 Singapore 760845,103.834873,1.416062
+Sheng Shiong,,24 Hours,62993391,Blk 108 McNair Rd #01-295 Singapore 321108,103.85968,1.321633
+Sheng Shiong,,7.00am - 11.00pm,67555633,Blk 925 Yishun Central 1 #01-211 Singapore 760925,103.837131,1.42746
+Sheng Shiong,Self-Payment Kiosk,7.00am - 10.00pm,62962833,2 Serangoon Rd #B1-01/33 / #B2-01/05 The Verge Singapore 218227,103.851399,1.304991
+Sheng Shiong,,24 Hours,65854797,Blk 527D Pasir Ris Street 51 #01-01 Singapore 514527,103.947939,1.36958
+Sheng Shiong,,24 Hours,62529026,18 Yishun Avenue 9 #02-06 / #02-10 Singapore 768897,103.841697,1.433033
+Sheng Shiong,,24 Hours,67472780,Blk 11 Upper Boon Keng Road #01-901 Singapore 380011,103.870478,1.3141
+Sheng Shiong,,7.00am - 11.00pm,66361713,506 Tampines Central 1 #02-361 Singapore 520506,103.945997,1.355995
+Giant,Giant Express,24 Hours,,Blk 468B Admiralty Drive #01-29 Singapore 752468,103.814307,1.449931
+Giant,Giant Express,24 Hours,,Blk 70 Woodlands Avenue 7 #01-05 Singapore 738344,103.80096,1.440678
+Giant,Giant Express,24 Hours,,Blk 525 Ang Mo Kio Avenue 10 #01-2401/2403/2405 Singapore 560525,103.85382,1.372555
+Giant,Giant Express,24 Hours,,Blk 256 Bangkit Road #01-69 Singapore 670256,103.772859,1.379094
+Giant,Giant Express,24 Hours,,Blk 509 Bedok North St 3 #01-121 Singapore 460509,103.93132,1.333569
+Giant,Giant Express,24 Hours,,Blk 631 Bedok Reservoir Road #01-954 Singapore 470631,103.914187,1.333555
+Giant,Giant Express,24 Hours,,Blk 284 Bukit Batok East Avenue 3 #01-251 Singapore 650284,103.757144,1.34685
+Giant,Giant Express,24 Hours,,Blk 266 Compassvale Bow #01-02 Singapore 540266,103.897061,1.381907
+Giant,Giant Express,24 Hours,,Blk 671 Edgefield Plains #02-01 Singapore 820671,103.912001,1.405518
+Giant,Giant Express,24 Hours,,Blk 445 Fajar Road #01-536 Singapore 670445,103.770563,1.383799
+Giant,Giant Express,24 Hours,,Blk 21 Ghim Moh Road #01-177 Singapore 270021,103.788517,1.310616
+Giant,Giant Express,24 Hours,,683 Hougang Avenue 8 #01-903/905/907 Singapore 530683,103.886096,1.373542
+Giant,Giant Express,24 Hours,,Blk 26 Jalan Membina #01-07/08/09 Singapore 161026,103.826001,1.283105
+Giant,Giant Express,24 Hours,,291 Joo Chiat Road #01-01 Singapore 427543,103.902225,1.309705
+Giant,Giant Express,24 Hours,65604938,Blk 492 Jurong West St 41 #01-24/26/28 Singapore 640492,103.725,1.350009
+Giant,Giant Express,7am - 10pm,,2 Jalan Lokam #01-37 Singapore 537846,103.882748,1.345483
+Giant,Giant Express,24 Hours,,Blk 56 Marine Terrace #01-259/261 Singapore 440056,103.915394,1.305623
+Giant,Giant Express,8am - 12am,,"35 Students Walk, NTU Canteen 2 Singapore 639548",103.685648,1.348018
+Giant,Giant Express,24 Hours,,Blk 776 Pasir Ris St 71 #01-412 Singapore 510776,103.936938,1.374886
+Giant,Giant Express,24 Hours,,Blk 622D Punggol Central #01-06 Singapore 824622,103.910424,1.400593
+Giant,Giant Express,24 Hours,,Blk 86 Redhill Close #01-610 Singapore 150086,103.818498,1.286971
+Giant,Giant Express,24 Hours,,Blk 406A Sembawang Drive #01-02 Singapore 751406,103.817649,1.452201
+Giant,Giant Express,24 Hours,,Blk 266 Serangoon Central Drive #01-255 Singapore 550266,103.871642,1.353226
+Giant,Giant Express,24 Hours,,Blk 829 Tampines St 81 #01-284/286/288 Singapore 520829,103.934903,1.349271
+Giant,Giant Express,24 Hours,,Blk 8 Telok Blangah Crescent #01-171 Singapore 090008,103.819181,1.27785
+Giant,Giant Express,24 Hours,,Blk 291 Yishun St 22 #01-389/391 Singapore 760291,103.836525,1.43614
+Giant,Giant Express,24 Hours,,Blk 102 Yishun Avenue 5 #01-125 Singapore 760102,103.828929,1.430877
+Giant,Giant Express,24 Hours,,Blk 293 Yishun St 22 #01-261 Singapore 760293,103.837956,1.436415
+Giant,Giant Supermarket,24 Hours,,Blk 161 Ang Mo Kio Avenue 4 #01-504 Singapore 560161,103.839814,1.374125
+Giant,Giant Supermarket,24 Hours,,Blk 316B Ang Mo Kio St 31 #01-11 Singapore 563316,103.847692,1.364801
+Giant,Giant Supermarket,7am - 10pm,,144 Upper Bukit Timah Road #B1-01 Singapore 588177,103.776106,1.34238
+Giant,Giant Supermarket,24 Hours,,348 Bedok Road #01-01 Bedok Market Place Singapore 469560,103.948302,1.331462
+Giant,Giant Supermarket,24 Hours,,Blk 512 Bishan St 13 #01-524 Singapore 570512,103.849899,1.349646
+Giant,Giant Supermarket,24 Hours,,Blk 376 Bukit Batok St 31 #01-116 Singapore 650376,103.749507,1.358431
+Giant,Giant Supermarket,24 Hours,,Blk 982 Buangkok Crescent #01-01 Singapore 530982,103.879399,1.380823
+Giant,Giant Supermarket,7am - 10pm,,Blk 118 Aljunied Avenue 2 #01-100 Singapore 380118,103.8874,1.319976
+Giant,Giant Supermarket,24 Hours,,Blk 524A Jelapang Road #03-13/18 Singapore 671524,103.766242,1.38526
+Giant,Giant Supermarket,24 Hours,,21 Hougang Street 51 #01-52 Singapore 538719,103.887372,1.378925
+Giant,Giant Supermarket,8am - 10pm,,1 Woodlands Road #01-07 Singapore 677899,103.760405,1.379781
+Giant,Giant Supermarket,24 Hours,,Blk 306 Ubi Avenue 1 #01-185 Singapore 400306,103.902289,1.329357
+Giant,Giant Supermarket,24 Hours,,201 Yishun Avenue 2 #01-03 Khatib MRT Station Singapore 769092,103.832864,1.417121
+Giant,Giant Supermarket,24 Hours,,Blk 260 Kim Keat Avenue #01-01 Singapore 310260,103.857341,1.332143
+Giant,Giant Supermarket,7:30am _ 10pm,,Blk 259 Pasir Ris Street 21 #01-27 Singapore 510259,103.964631,1.366981
+Giant,Giant Supermarket,24 Hours,,Blk 440 Pasir Ris Drive 4 #01-01 Singapore 510440,103.958614,1.369088
+Giant,Giant Supermarket,7am - 10.30pm,,60 Paya Lebar Road #B1-01/05 Singapore 409051,103.892608,1.318773
+Giant,Giant Supermarket,24 Hours,,Blk 475 Choa Kang Ave 3 #01-01/10 Singapore 680475,103.738969,1.377878
+Giant,Giant Supermarket,7am - 10pm,,9 Tampines St 32 #01-30 Singapore 529286,103.959797,1.354351
+Giant,Giant Supermarket,7am - 12am,,845 Geylang Road #01-08 Singapore 400845,103.894359,1.316414
+Giant,Giant Supermarket,24 Hours,,Blk 181 Toa Payoh Lorong 4 #01-602/610 Singapore 310181,103.850929,1.333608
+Giant,Giant Supermarket,24 Hours,,Blk 548 Woodlands Drive 44 #01-37 Singapore 730548,103.793931,1.430543
+Giant,Giant Supermarket,24 Hours,,Blk 768 Woodlands Ave 6 #01-34 Singapore 730768,103.797909,1.445394
+Giant,Giant Supermarket,24 Hours,,Blk 883 Woodlands St 82 #01-498 Singapore 730883,103.790778,1.442766
+Giant,Giant Supermarket,24 Hours,,Blk 418 Yishun Avenue 11 #01-433 Singapore 760418,103.847318,1.424655
+Giant,Giant Hypermarket,Sun - Thurs: 9am - 10pm Fri - Sat: 9am - 11pm,,"200 Turf Club Road, The Grandstand #01-01 Singapore 287994",103.793214,1.33869
+Giant,Giant Hypermarket,Mon - Thurs: 9am - 11pm Fri & Sun: 8am - 11pm Sat: 8am _ 12am,,2 Jurong East St 21 #01-100 IMM Building Singapore 609601,103.746994,1.334107
+Giant,Giant Hypermarket,9am - 10pm,,80 Marine Parade Road #03-27/28 Parkway Parade Singapore 449269,103.904909,1.301336
+Giant,Giant Hypermarket,8am - 11pm,,Blk 638 Jurong West St 61 #03-01 Singapore 640638,103.697341,1.341847
+Giant,Giant Hypermarket,Sun - Thurs: 9am - 10.30pm Fri - Sat: 9am - 11pm,,604 Sembawang Road #B1-25 Singapore 758459,103.824895,1.441997
+Giant,Giant Hypermarket,9am - 10pm,,No. 3 Temasek Boulevard #B1-152-159 Singapore 038983,103.859712,1.295749
+Giant,Giant Hypermarket,Sun - Thurs: 8am - 12am Fri - Sat: 8am - 2am,,21 Tampines North Drive 2 #03-01 Singapore 528765,103.931895,1.372064
+Giant,Giant Hypermarket,Mon - Fri: 10am - 10pm Sat-Sun: 9am - 10pm,,1 HarbourFront Walk #B1-23 / #01-23 Singapore 098585,103.82312,1.264713
+Cold Storage,Cold Storage,9:00AM - 10:00PM,68365206,"383 Bukit Timah Rd #01-09A, Alocassia Apt, Singapore 259727",103.82722,1.319647
+Cold Storage,Cold Storage,8:00AM - 10:00PM,"65093897, 65093928",16 Enggor Street #01-05/08 Singapore 079717,103.844464,1.274522
+Cold Storage,Cold Storage,9:00AM - 10:00PM,64793242,370 Alexandra Rd #B1-03 to 07 Anchorpoint Singapore 159953,103.805122,1.288779
+Cold Storage,Cold Storage,24 Hours,"68449500, 68449502","12 Kallang Avenue, Aperia, #01-47/51 Singapore 339511",103.863816,1.310532
+Cold Storage,Cold Storage,9:00AM - 11:00PM,63361990,230 Victoria Street #B1-17/18 Bugis Junction Singapore 188024,103.855279,1.299299
+Cold Storage,Cold Storage,9:00AM - 10:30PM,"68941236, 68941206",No. 1 Woodlands Square #B1-31/32/33 Causeway Pt Singapore 738099,103.785911,1.436174
+Cold Storage,Cold Storage,9:00AM - 10:00PM,"62350737, 62353401, 62353406",176 Orchard Roard #B1-09/10 The Centrepoint Singapore 238843,103.839521,1.301661
+Cold Storage,Cold Storage,9:00AM - 10:00PM,62536747,Blk 36H Dunearn Road #01-44 Singapore 309433,103.83609,1.317403
+Cold Storage,Cold Storage,8:00AM - 10:00PM,"62688559, 62688561","442 Orchard Road #B1-01-11 Orchard Hotel, Singapore 238879",103.828949,1.307569
+Cold Storage,Cold Storage,9:00AM - 10:00PM,64663181,41 Sunset Way #01-01A Clementi Arcade Singapore 597071,103.767494,1.323636
+Cold Storage,Cold Storage,24 Hours,"67630815, 67630939",501 Bukit Timah Rd Cluny Court #01-02 Singapore 259760,103.814398,1.322684
+Cold Storage,Cold Storage,9:00AM - 10:00PM,"63863254, 63863304, 63863256","1 Sengkang Square #B1-25, Compass One Shopping Centre, Singapore 545078",103.894934,1.391776
+Cold Storage,Cold Storage,9:00AM - 10:00PM,"67027460, 67027461, 67027462",430 Upper Changi Road #01-47/48/49 East Village Singapore 487048,103.946358,1.331864
+Cold Storage,Cold Storage,8:00AM - 10:00PM,"62444530, 62444531",20 Eastwood Road #01-07/09 Eastwood Centre Singapore 486442,103.955431,1.321406
+Cold Storage,Cold Storage,9:00AM - 10:00PM,67354730,1 Kim Seng Promenade Great World City #B1-18 / 19 Singapore 237994,103.831973,1.294202
+Cold Storage,Cold Storage,9:00AM - 10:00PM,"64815670, 64815281, 64816953",1 Seletar Road #01-11 Greenwich V Singapore 807011,103.869335,1.387595
+Cold Storage,Cold Storage,8:00AM - 10:00PM,64671353,20 Greenwood Ave Singapore 289215,103.806822,1.331484
+Cold Storage,Cold Storage,8:00AM - 10:00PM,64633411,1 Fifth Ave Guthrie House #01-05 Singapore 268802,103.795553,1.330781
+Cold Storage,Cold Storage,8:00AM - 11:00PM,62749112,1 Martitime Square #01-48 to 50 Singapore 099253,103.820369,1.264303
+Cold Storage,Cold Storage,9:00AM - 10:00PM,,"No 2 Havelock Road, #B1-19 Singapore 059763",,
+Cold Storage,Market Place,9:00AM - 10:00PM,67107161,4 Hillview Rise #02-07 Singapore 667979,103.764658,1.363844
+Cold Storage,Cold Storage,24 Hours,64685566,"211 Holland Avenue #01-02,04,05 Holland Shopping Ctr Singapore 278967",103.795523,1.310392
+Cold Storage,Cold Storage,8:00AM - 10:00PM,"63830323, 63830076","Blk 205 Hougang Street 21 #01-133 / 135 Heartland Mall, Singapore 530205",103.885011,1.359364
+Cold Storage,Jasons,10:00AM - 10:30PM,65091322,"2 Orchard Turn,#B4-17-19, Ion Orchard Singapore 238801",103.831378,1.305003
+Cold Storage,Jasons,8:00AM - 10.30PM,62354355,1 Claymore Drive #01-01 Orchard Towers Singapore 229594,103.829394,1.307595
+Cold Storage,Jasons,8:00AM - 8:00PM,"62689986, 62689953",31 Oceanway Quayside Isle # 01-26/27 Singapore 098375,103.841847,1.248016
+Cold Storage,Cold Storage,24 Hours,"64693877, 64693878",293 Holland Rd #01-01 Jelita Shopping Ctr Singapore 278628,103.786012,1.317714
+Cold Storage,Cold Storage,9:00AM - 10:30PM,62420818,5 Stadium Walk #B1-01/05 Leisure Park Singapore 397693,103.876521,1.302238
+Cold Storage,Cold Storage,10:00AM - 10:00PM,66363094,"112, #B1-14 East Coast Rd Singapore 428802",103.904622,1.305522
+Cold Storage,Cold Storage,8:00AM - 10:30PM,"67567100 , 64826091",930 Yishun Avenue 2 #B1-11 to 16 Northpoint Shopping Centre Singapore 769098,103.835854,1.429316
+Cold Storage,Cold Storage,9:00AM - 10:00PM,"63527223, 63527942",No 238 Thomson Road #01-28/29 Singapore 307683,103.844065,1.32024
+Cold Storage,Cold Storage,9:00AM - 10:00PM,67745396,"101 Clementi Road, #01-01 Kent vale Estate, Singapore 129787",103.76958,1.30176
+Cold Storage,Cold Storage,9:00AM - 10:00PM,"67022423, 67022426","11, Tanjong Katong Road #B1-36 ONE KM Singapore 437157",103.894507,1.314663
+Cold Storage,Market Place,9:00AM - 10:00PM,67382798,290 Orchard Road #B1-21/22 Paragon Singapore 238859,103.836,1.303857
+Cold Storage,Cold Storage,9:00AM - 10:30PM,"63449011, 63448749",80 Marine Parade Road #B1-84 Parkway Parade Singapore 449269,103.905433,1.300737
+Cold Storage,Cold Storage,9:00AM - 10:30PM,"62386761, 62386763",68 Orchard Road #B2-15/16 Plaza Singapura Singapore 238839,103.845107,1.300613
+Cold Storage,Market Place,8:00AM - 11:00PM,63362676,252 North Bridge Rd #B1-01 Raffles City Shopping Centre Singapore 179103,103.853336,1.293863
+Cold Storage,Cold Storage,24 Hours,"67631639, 67637258",464-486 Jalan Asas Upper Bukit Timah Road Singapore 678077,103.767605,1.36018
+Cold Storage,Cold Storage,8:00AM - 10:00PM,"62749114, 62749132 6",1 Cove Avenue Sentosa Arrival Plaza #02-07/10 Singapore 098537,103.839685,1.246982
+Cold Storage,Cold Storage,24 Hours,"66344190, 66344189, 66344187",23 Serangoon Central #B2-44/45 nex Singapore 556083,103.872938,1.350068
+Cold Storage,Cold Storage,24 Hours,"64445898, 64448678","2 First Street #01-05/06/12/13/14/15/16, Siglap V Singapore 458278",103.923641,1.312784
+Cold Storage,Cold Storage,9:00AM - 10:00PM,"64631179, 64631176",896 Dunearn Road #02-01 Sime Darby Centre Singapore 589472,103.784064,1.336846
+Cold Storage,Cold Storage,9:00AM - 11:00PM,"66943224, 66943229","1 Vista Exchange Green, #B1-02&35/36, The Star Vista, Singapore 138617",103.787871,1.306936
+Cold Storage,Cold Storage,10:00AM - 9:30PM,"67351266, 67351275, 67351276",391A Orchard Road #B2-01-1 Ngee Ann City Singapore 238872,103.835054,1.302711
+Cold Storage,Cold Storage,9:00AM - 10:30PM,"65871783, 65870293, 65870164",10 Tampines Central 1 Tampines 1 #B1-01/02 Singapore 529536,103.945374,1.354236
+Cold Storage,Market Place,9:00AM - 10:00PM,67340105,163 Tanglin Road Tanglin Mall #B1-02/03 Singapore 247933,103.823825,1.304929
+Cold Storage,Cold Storage,9:00AM - 10:00PM,"67333054, 67331040",No 81 Clemenceau Avenue #02-18 UE Square Singapore 239917,103.842547,1.292134
+Cold Storage,Cold Storage,9:00AM - 10:00PM,"62509690, 62509691",101 Thomson Road #B1-52 Singapore 307591,103.8436,1.316786
+Cold Storage,Cold Storage,Mon - Fri: 10:00AM - 10:00PM Sat - Sun: 9:00AM - 10:00PM,"62754770, 62759780",1 Harbour Front Walk #01-23B Singapore 098585,103.82233,1.264244
+Cold Storage,Cold Storage,9:00AM - 10:00PM,68724733,154 West Coast Road #B1-19 West Coast Plaza Singapore 127371,103.766246,1.303912
+Cold Storage,Cold Storage,8:00AM - 10:30PM,"68611580, 68611355",No. 1 Bukit Batok Central Link #B1-01 West Mall Singapore 658713,103.749336,1.350205
+Cold Storage,Cold Storage,Sun - Thur: 9:00AM - 11:00PM Fri - Sat: 9:00AM - 12:00AM,66345261,2 Bayfront Avenue The Shoppes Marina Bay Sands #B2-46 Singapore 018972 Singapore 018972,103.858934,1.283804
+Wet Market,Tiong Bahru Wet Market,9:00AM - 8:00PM,,"30 Seng Poh Rd, Singapore 168898",103.832327,1.284862
+Wet Market,Tekka Centre,,,"Level 1 Tekka Centre, 665 Buffalo Rd, Singapore 210665",103.850654,1.30624
+Wet Market,Coliwa Department Store Chinatown Complex,,,"Chinatown Complex, 335 Smith Street, Singapore 050335",103.843163,1.282731
+Wholesale Centre,,,,"1 Wholesale Centre, Singapore 110001",,
+Wet Market,Geylang Serai Market,,,"1 Geyland Serai, Singapore 402001",103.898278,1.316727
+Wet Market,Senoko Fishery Port,,,"31 Attap Valley Rd, Singapore759908",103.792457,1.461595
+Wet Market,Whampoa Wet Market,,,"92 Whampoa Dr, Singapore 320092",103.854114,1.323317
+Wet Market,,,,"Blk 38A Beo Crescent, Singapore 169982",,
+Wet Market,Marine Parade Food Centre,,,Blk 84 Marine Parade Central,103.906362,1.302162
+Wet Market,Tanjong Pagar Plaza Market,,,7 Tanjong Pagar Plaza,103.843163,1.276655
+Wet Market,Chong Pang Market & Food Centre,,,"104 Yishun Ring Road, Singapore 760104",103.828167,1.431377
+Wet Market,,,,"69 Geylang Bahru, Singapore 330069",103.869968,1.321705
+Wet Market,Empress Market,,,"7 Empress Rd, Singapore 260007",103.805676,1.316261
+Wet Market,Telok Blangah Crescent Block 11 Market And Food Centre,,,"11 Telok Blangah Crescent, Singapore 090011",103.818634,1.277562
+Wet Market,Kebun Baru Market,,,"226D Ang Mo Kio Avenue 1, Singapore 564226",103.839183,1.366953
+Wet Market,Ghim Moh Market,,,"20 Ghim Moh Rd, Singapore 270020",103.788284,1.311091
+Wet Market,Admiralty Wet Market,,,"678 Woodlands Ave 6, Singapore 730678",103.801559,1.439896
+Wet Market,Holland Drive Market,,,"44 Holland Drive, Singapore 270044",103.792836,1.308112
+Wet Market,Siang Heng Fish Merchant,,,"17 Kalidasa Ave, Singapore 789396",103.829765,1.38169
+Wet Market,115 Bukit Merah View Market & Food Centre,,,"115 Bukit Merah View, Singapore 151115",103.822198,1.284691
+Wet Market,Golden Mile Food Centre,,,"505 Beach Road, Singapore 199583",103.863855,1.303134
+Wet Market,Toa Payoh Lor 1 Market,,,"127 Lorong 1 Toa Payoh, Singapore 310127",103.844759,1.337792
+Wet Market,Chung Ling Wet Market,,,"151 Bishan Street 11, Singapore 571151",103.855223,1.345506
+Wet Market,50A Marine Terrace Market And Food Centre,,,"50A Marine Terrace, Singapore 441050",103.915808,1.305811
+Wet Market,Tanjong Pagar Plaza Market,,,"6 Tanjong Pagar Plaza, Singapore 081006",103.843166,1.276658
+Wet Market,Bukit Batok Street 11 Food Centre,,,"156 Bukit Batok Street 11, Singapore 650156",103.743582,1.348209
+Wet Market,Tampines Round Market & Food Centre,,,137 Tampines Street 11 Singapore 522137 Tampines Street 11,103.944624,1.345582
+Wet Market,Geylang East Centre Market & Food Centre,,,"117 Aljunied Ave 2, Singapore 380117",103.886937,1.320461
+Wet Market,The Marketplace @ 58,,,"58 New Upper Changi Rd, Singapore 461058",103.941057,1.32429
+Wet Market,Bukit Timah Market & Food Centre,,,"116 Upper Bukit Timah Rd, Singapore 588172",103.775818,1.340764
+Prime Supermarket,,64431827,,"Blk 25A Chai Chee Road, #01-459, Singapore 461025",103.924029,1.323424
+Prime Supermarket,,,,"823 Tampines St 81, Singapore 520823",103.93409,1.348887
+Prime Supermarket,,,,"373 Bukit Batok Street 31, Singapore 650373",103.750403,1.358978
+Prime Supermarket,,,,"763 Jurong West Street 75, Singapore 640763",103.699035,1.348869
+Prime Supermarket,,,,Blk 253 Choa Chu Kang Ave 1 #B1-07 to 10 Singapore,103.744353,1.3777
+Prime Supermarket,,,,"Block #01-281, 142 Teck Whye Ln, Block 142, Singapore 680142",103.752593,1.380446
+Prime Supermarket,,,,"263 Compassvale St, Singapore 540263",103.897475,1.395547
+Prime Supermarket,,,,"761 Yishun Street 72, Singapore 760761",103.833617,1.425064
+Prime Supermarket,,,,"678 Woodlands Ave 6, Singapore 730678",103.802718,1.439479
+Prime Supermarket,,,,"108 Punggol Field, Singapore 820108",103.910521,1.395547
+Prime Supermarket,,,,"125 Defu Lane 10, Singapore 539233",103.896102,1.357106
+Prime Supermarket,,,,"1 Upper Aljunied Ln, Singapore 360001",103.880309,1.333767
+Prime Supermarket,,,,"159A Hougang Street 11, Singapore 531159",103.880309,1.350928
+Prime Supermarket,,,,"Blk 962 Jurong West Street 91, #01-300, Singapore 640962",103.691997,1.341318
+Prime Supermarket,,,,"76 Nanyang Dr, Singapore 637331",103.681354,1.346809
+Yes Supermarket,,,,"829 Tampines Street 81, 520829",103.934546,1.349415
+Yes Supermarket,,,,"201B Tampines Street 21, Singapore 522201",103.952918,1.353444
+Yes Supermarket,,,,"139 Tampines Street 11, Singapore 521139",103.945324,1.345929
+Karthika Supermarket,,,,"101 Yishun Avenue 5 #01-61, Singapore 760101",103.827289,1.431263
+Karthika Supermarket,,,,"34 Buffalo Rd, Singapore 219796",103.851438,1.306506
